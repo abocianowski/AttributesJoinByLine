@@ -299,7 +299,7 @@ class AttributesJoinByLine(QWidget):
                             items = [None,NULL,'']
                             if len(b)>1:
                                 for item in items:
-                                    b = [i for i in b if i is not item]
+                                    b = [i for i in b if i != item]
                             if len(b) > 1:
                                 fail += 1
                                 fail_fields.append(sourceLayer.fields()[i].name())
