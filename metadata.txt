@@ -3,7 +3,7 @@
 name=AttributesJoinByLine
 qgisMinimumVersion=3.0
 description=AttributesJoinByLine allows you to copy attributes from the source layer to the target layer by using a line.
-version=0.1
+version=0.2
 author=Adrian Bocianowski
 email=adrian@bocianowski.com.pl
 
@@ -14,7 +14,11 @@ repository=https://github.com/abocianowski/AttributesJoinByLine
 
 # Recommended items:
 
-changelog=version=0.1 - plugin create
+changelog=
+    version=0.2
+    * add about tab 
+    version=0.1
+     * plugin create
 
 tags= Line,Attribute,Attributes,Join,By 
 
