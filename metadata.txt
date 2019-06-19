@@ -22,7 +22,7 @@ changelog=
 
 tags= Line,Attribute,Attributes,Join,By 
 
-homepage=
+homepage=https://gishelper.pl/index.php/2019/06/18/jak-przeniesc-atrybuty-punktow-przy-uzyciu-linii/
 category=Plugins
 icon=icons/AttributesJoinByLine.png
 experimental=False
